@@ -31,13 +31,16 @@ This section helps identify where the largest concentrations of access records e
 ### Cleanup Candidates
 Displays potential cleanup targets based on inactive records, inherited access patterns, business unit changes, ownership concentrations, or other high-volume scenarios.
 This section is intended to help administrators prioritize which access records or security structures should be reviewed first.
+<img width="3755" height="1792" alt="image" src="https://github.com/user-attachments/assets/983d75f2-57b0-4618-b9b9-e4d602a5e4ce" />
 
 ### Impact Estimates
 Displays estimated reductions in POA volume, cleanup effort levels, and expected benefit areas.
 This section provides planning guidance before any cleanup work is performed.
+<img width="3790" height="1117" alt="image" src="https://github.com/user-attachments/assets/20b09fa2-8a0a-4d30-8ea8-8f519eb62caa" />
 
 ### Export
 Allows all analysis results to be exported for reporting, stakeholder review, or further analysis outside of XrmToolBox.
+<img width="3550" height="1450" alt="image" src="https://github.com/user-attachments/assets/2ef45f4d-33ff-431a-b214-72fe971045b9" />
 
 ## Typical Use Cases
 - Investigating large principalobjectaccess tables
