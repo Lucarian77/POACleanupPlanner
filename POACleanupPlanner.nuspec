@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>POACleanupPlanner</id>
+    <version>1.2026.1.0</version>
+    <title>POA Cleanup Planner</title>
+    <authors>Adrian Lucaci</authors>
+    <owners>Adrian Lucaci</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <readme>README.md</readme>
+    <description>Analyze principalobjectaccess growth, identify POA hotspots, and generate cleanup planning guidance for inherited and concentrated access patterns.</description>
+    <releaseNotes>Initial public release of POA Cleanup Planner for XrmToolBox.</releaseNotes>
+    <copyright>Copyright © Adrian Lucaci 2026</copyright>
+    <tags>xrmtoolbox dynamics365 dataverse crm security poa principalobjectaccess cleanup analysis</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.8" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\POACleanupPlanner.dll" target="lib\net48\Plugins" />
+    <file src="README.md" target="" />
+  </files>
+</package>
