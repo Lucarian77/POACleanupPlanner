@@ -57,10 +57,22 @@ Allows all analysis results to be exported for reporting, stakeholder review, or
 - Appropriate read access to security-related entities and metadata
 
 ## Version History
+### Version 1.2026.1.2
+* Updated analysis execution to use the XrmToolBox WorkAsync pattern
+* Improved host responsiveness during Dataverse retrieval and hotspot enrichment
+* Preserved summary, hotspot, candidate, impact, baseline snapshot, export preview, and log workflows
+* Refined package documentation for Tool Library resubmission
+
+### Version 1.2026.1.1
+* Updated analysis execution to use the XrmToolBox asynchronous execution pattern
+* Improved responsiveness during Dataverse retrieval and enrichment
+* Preserved hotspot, candidate, impact, baseline snapshot, export preview, and log workflows
+* Refined package metadata and Tool Library submission readiness
+
 ### Version 1.2026.1.0
-- Initial public release
-- Added POA hotspot analysis
-- Added cleanup candidate recommendations
-- Added cleanup impact estimation
-- Added CSV export support
-- Added prioritization guidance for cleanup planning
+* Initial public release
+* Added POA hotspot analysis
+* Added cleanup candidate recommendations
+* Added cleanup impact estimation
+* Added CSV export support
+* Added prioritization guidance for cleanup planning
