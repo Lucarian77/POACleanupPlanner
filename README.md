@@ -57,6 +57,19 @@ Allows all analysis results to be exported for reporting, stakeholder review, or
 - Appropriate read access to security-related entities and metadata
 
 ## Version History
+### Version 1.2026.1.3
+Added configurable scan depth presets for Quick, Standard, Deep, Full, and Custom scans
+Added deterministic POA paging for more consistent scan results
+Added entity, principal, and record-level POA hotspot analysis
+Added cleanup candidate review with advisory validation guidance
+Added cleanup impact scenarios
+Added detail dialogs with copy actions
+Added baseline snapshot output
+Added export preview output
+Added CSV/text export support
+Improved summary, scan quality, and log output
+Updated README, package metadata, NuGet release notes, and XrmToolBox packaging alignment
+
 ### Version 1.2026.1.2
 * Updated analysis execution to use the XrmToolBox WorkAsync pattern
 * Improved host responsiveness during Dataverse retrieval and hotspot enrichment
