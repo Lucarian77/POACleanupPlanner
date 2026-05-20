@@ -32,7 +32,8 @@ This section helps identify where the largest concentrations of access records e
 ### Cleanup Candidates
 Displays potential cleanup targets based on inactive records, inherited access patterns, business unit changes, ownership concentrations, or other high-volume scenarios.
 This section is intended to help administrators prioritize which access records or security structures should be reviewed first.
-<img width="3755" height="1792" alt="image" src="https://github.com/user-attachments/assets/983d75f2-57b0-4618-b9b9-e4d602a5e4ce" />
+
+<img width="3795" height="1050" alt="image" src="https://github.com/user-attachments/assets/78540719-df92-40d3-bded-46d7992e888b" />
 
 ### Impact Estimates
 Displays estimated reductions in POA volume, cleanup effort levels, and expected benefit areas.
