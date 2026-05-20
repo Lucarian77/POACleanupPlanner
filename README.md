@@ -28,6 +28,36 @@ Displays the entities, records, or ownership patterns contributing the highest P
 This section helps identify where the largest concentrations of access records exist and where cleanup efforts may provide the greatest value.
 <img width="3762" height="1970" alt="image" src="https://github.com/user-attachments/assets/723e6c7f-3bc7-4461-bbd9-1fc5f8e75dba" />
 
+### Principal Hotspots
+Displays users, teams, or other principals with the highest POA concentration. This section helps identify whether POA growth is being driven by specific users, teams, access teams, or ownership/security model patterns.
+The grid includes:
+- Principal
+- Principal type
+- POA rows
+- Percentage of scan
+- Entities affected
+- Records affected
+- Dominant entity
+- Access pattern
+- Risk level
+- Recommendation
+<img width="3770" height="1805" alt="image" src="https://github.com/user-attachments/assets/80cbd3b5-4735-47b7-b7ee-d849ac0fc27e" />
+
+### Record Hotspots
+Displays individual records with concentrated POA access. This helps identify specific records that may be contributing to POA growth and should be reviewed after confirming entity-level and principal-level drivers.
+The grid includes:
+- Entity
+- Record
+- Record ID
+- POA rows
+- Percentage of scan
+- Principal count
+- User principal count
+- Team principal count
+- Access pattern
+- Risk level
+- Recommendation
+<img width="3742" height="1792" alt="image" src="https://github.com/user-attachments/assets/2f7ba836-13ea-4475-8def-ac963242ea07" />
 
 ### Cleanup Candidates
 Displays potential cleanup targets based on inactive records, inherited access patterns, business unit changes, ownership concentrations, or other high-volume scenarios.
