@@ -26,7 +26,8 @@ The tool highlights POA hotspots, identifies entities and records contributing t
 ### POA Hotspots
 Displays the entities, records, or ownership patterns contributing the highest POA volume within the environment.
 This section helps identify where the largest concentrations of access records exist and where cleanup efforts may provide the greatest value.
-<img width="3745" height="1625" alt="image" src="https://github.com/user-attachments/assets/8c33f67a-4517-490d-afed-64a250762036" />
+<img width="3762" height="1970" alt="image" src="https://github.com/user-attachments/assets/723e6c7f-3bc7-4461-bbd9-1fc5f8e75dba" />
+
 
 ### Cleanup Candidates
 Displays potential cleanup targets based on inactive records, inherited access patterns, business unit changes, ownership concentrations, or other high-volume scenarios.
