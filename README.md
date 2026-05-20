@@ -68,11 +68,13 @@ This section is intended to help administrators prioritize which access records 
 ### Impact Estimates
 Displays estimated reductions in POA volume, cleanup effort levels, and expected benefit areas.
 This section provides planning guidance before any cleanup work is performed.
-<img width="3790" height="1117" alt="image" src="https://github.com/user-attachments/assets/20b09fa2-8a0a-4d30-8ea8-8f519eb62caa" />
+<img width="3750" height="1435" alt="image" src="https://github.com/user-attachments/assets/ab725a8b-9233-47e3-ba5b-be92b26260fa" />
+
 
 ### Export
 Allows all analysis results to be exported for reporting, stakeholder review, or further analysis outside of XrmToolBox.
-<img width="3550" height="1450" alt="image" src="https://github.com/user-attachments/assets/2ef45f4d-33ff-431a-b214-72fe971045b9" />
+<img width="3472" height="1580" alt="image" src="https://github.com/user-attachments/assets/b64103c7-cbdf-49f8-8dc5-f9f76f29ac17" />
+
 
 ## Typical Use Cases
 - Investigating large principalobjectaccess tables
