@@ -5,14 +5,19 @@ POA Cleanup Planner is an XrmToolBox plugin designed to help administrators anal
 The tool highlights POA hotspots, identifies entities and records contributing to concentrated access patterns, and provides cleanup planning guidance to support improved performance, security maintenance, and reduced database growth.
 
 ## Features
-- Analyze POA growth by entity and identify the largest contributors
-- Detect records with unusually high numbers of access grants
-- Highlight users, teams, business units, and ownership patterns contributing to POA expansion
-- Generate cleanup candidate groups for inactive, inherited, or concentrated access scenarios
-- Estimate cleanup impact before any remediation work is performed
-- Export findings to CSV for further review and reporting
-- Display clear prioritization guidance for cleanup activities
-
+- Configurable scan depth presets for Quick, Standard, Deep, Full, and Custom scans
+- Deterministic POA paging for more consistent scan results
+- Entity-level, principal-level, and record-level POA hotspot analysis
+- Principal hotspot review for users, teams, and concentrated access patterns
+- Record hotspot review for individual records with concentrated POA access
+- Cleanup candidate analysis with advisory validation guidance
+- Cleanup impact scenarios for planning potential POA row reduction
+- Baseline snapshot output for before-and-after comparison
+- Export preview for reviewing generated output before saving
+- CSV and text export support
+- Detail dialogs with copy actions for hotspot and candidate review
+- Runtime log output for scan, enrichment, paging, and export activity
+- 
 ## Key Benefits
 - Helps reduce principalobjectaccess table growth
 - Supports improved Dynamics 365 and Dataverse performance
